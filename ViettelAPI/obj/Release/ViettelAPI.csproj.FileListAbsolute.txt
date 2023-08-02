@@ -1,0 +1,16 @@
+D:\project\Export\ViettelAPI\bin\Release\ViettelAPI.dll
+D:\project\Export\ViettelAPI\bin\Release\ViettelAPI.pdb
+D:\project\Export\ViettelAPI\bin\Release\FX.Core.dll
+D:\project\Export\ViettelAPI\bin\Release\FX.Data.dll
+D:\project\Export\ViettelAPI\bin\Release\log4net.dll
+D:\project\Export\ViettelAPI\bin\Release\Newtonsoft.Json.dll
+D:\project\Export\ViettelAPI\bin\Release\Parse.Core.dll
+D:\project\Export\ViettelAPI\bin\Release\Bytescout.PDFExtractor.dll
+D:\project\Export\ViettelAPI\bin\Release\RestSharp.dll
+D:\project\Export\ViettelAPI\bin\Release\Parse.Core.pdb
+D:\project\Export\ViettelAPI\bin\Release\RestSharp.xml
+D:\project\Export\ViettelAPI\obj\Release\ViettelAPI.csprojAssemblyReference.cache
+D:\project\Export\ViettelAPI\obj\Release\ViettelAPI.csproj.CoreCompileInputs.cache
+D:\project\Export\ViettelAPI\obj\Release\ViettelAPI.csproj.CopyComplete
+D:\project\Export\ViettelAPI\obj\Release\ViettelAPI.dll
+D:\project\Export\ViettelAPI\obj\Release\ViettelAPI.pdb
