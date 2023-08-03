@@ -1,0 +1,16 @@
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\Auto_Check_CQT.exe.config
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\Auto_Check_CQT.exe
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\Auto_Check_CQT.pdb
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\EntityFramework.dll
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\System.Data.SQLite.dll
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\EntityFramework.xml
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\bin\Debug\System.Data.SQLite.xml
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\obj\Debug\Auto_Check_CQT.csprojAssemblyReference.cache
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\obj\Debug\Auto_Check_CQT.csproj.CoreCompileInputs.cache
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\obj\Debug\Auto_Check_CQT.csproj.CopyComplete
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\obj\Debug\Auto_Check_CQT.exe
+D:\Project\2021\InvoiceMv2_TELPGV\Auto_Check_CQT\obj\Debug\Auto_Check_CQT.pdb
